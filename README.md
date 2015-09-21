@@ -323,4 +323,4 @@ Google 告诉你，目前最热的 Android 平台使用 Android Studio 开发应
 
 感谢[火星猫](https://github.com/felixonmars)、[百合子](https://github.com/lilydjwg)、[玲奈](https://github.com/zh99998)、[壕桥](https://github.com/catofes)、[足兆叉虫](https://github.com/binux)、[Yk](https://github.com/ykelvis)、[Ave](https://github.com/ym)、A3G Hackers 的 [Ricter](https://github.com/RicterZ)、Canonical 的 happyaron、萌导航的杏子酱... 等等数不清的陪我一路走来、和我一起讨论解决问题、给我激励的好朋友，还有[南京 LUG](http://nanjinglug.org/)的各位、夏耐老师等等悉心教导我的长辈们。感谢你们。
 
-这篇文章可能随着时间会慢慢过期、甚至可能不再适用于那时的互联网业界。而且我现在寥寥数年的互联网从业经历还远远不够，如有不足之处欢迎提出改善意见。本文使用 [cc-by 4.0](http://creativecommons.org/licenses/by/4.0/) 协议发布
+这篇文章可能随着时间会慢慢过期、甚至可能不再适用于那时的互联网业界。而且我现在寥寥数年的互联网从业经历还远远不够，如有不足之处欢迎提出改善意见。本文使用 [cc-by 4.0](http://creativecommons.org/licenses/by/4.0/) 协议发布。
